@@ -1,0 +1,11 @@
+language: go
+
+go:
+    - "1.11"
+    - tip
+
+before_install:
+    - go get golang.org/x/lint/golint
+
+script:
+    - go vet
