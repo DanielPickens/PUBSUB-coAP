@@ -18,7 +18,7 @@ package main
 import (
 	"log"
 
-	. "github.com/kkdai/CoapPubsub"
+	. "github.com/DanielPickens/PubsubcoAP"
 )
 
 func main() {
@@ -36,7 +36,7 @@ import (
 	"fmt"
 	"log"
 
-	. "github.com/kkdai/CoapPubsub"
+	. "github.com/DanielPickens/PubsubcoAP"
 )
 
 func main() {
@@ -82,7 +82,7 @@ TBD
 Inspired
 MQTT and CoAP, IoT Protocols
 RFC 7252
-https://github.com/dustin/go-coap
+https://github.com/DanielPickens/go-coap
 CoAP an introduction
 Project52
 It is one of my project 52.
