@@ -1,5 +1,5 @@
 PubSub client/server over CoAP(Constrained Application Protocol)
-GitHub license GoDoc Build Status
+
 
 It is a Sub/Pub server and client using CoAP protocol.
 
