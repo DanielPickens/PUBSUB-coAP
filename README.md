@@ -87,5 +87,4 @@ CoAP an introduction
 Project52
 It is one of my project 52.
 
-License
-This package is licensed under MIT license. See LICENSE for details.
+
