@@ -7,7 +7,7 @@ Note
 It will keep a heart beat signal from client to server if you subscription a topic to remain your UDP port channel.
 
 Install
-go get github.com/kkdai/CoapPubsub
+go get github.com/Daniel/CoapPubsub
 
 Usage
 Server side example
